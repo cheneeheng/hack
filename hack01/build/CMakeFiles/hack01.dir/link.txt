@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/hack01.dir/main.cpp.o  -o hack01 -rdynamic 

@@ -1,0 +1,1 @@
+/home/chen/hack/sample/build/CMakeFiles/sample.dir
