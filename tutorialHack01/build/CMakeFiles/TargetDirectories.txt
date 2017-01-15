@@ -1,0 +1,3 @@
+/home/chen/hack/tutorialHack02/build/CMakeFiles/rebuild_cache.dir
+/home/chen/hack/tutorialHack02/build/CMakeFiles/edit_cache.dir
+/home/chen/hack/tutorialHack02/build/CMakeFiles/hack.dir

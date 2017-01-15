@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chen/hack/tutorialHack01/main.cpp
+iostream
+-
+cmath
+-
+cstdio
+-
+vector
+-
+algorithm
+-
+sstream
+-
+
